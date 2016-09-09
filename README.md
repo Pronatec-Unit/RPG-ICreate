@@ -4,10 +4,13 @@ Os RPG necessitam de uma criação de fichas para personagens, o aplicativo RPG-
 
 
 ##Equipe RPG-Plans
-1.Davis:Gerente
-2.Josival:Designer
-3.Miquéias:Programador
+
+1. Davis:Gerente
+2. Josival:Designer
+3. Miquéias:Programador
 
 ##Cronograma
-12-14/09-Pesquisa de Interfaces e tipos de Fichas utilizáveis
-
+Data | Atividade
+------------ | -------------
+12-14/09 | Pesquisa de Interfaces e tipos de Fichas utilizáveis
+20/09 | Descrever atividade
